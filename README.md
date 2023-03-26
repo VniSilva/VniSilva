@@ -4,7 +4,8 @@
 ## About me
 
 ## Contact
-[Linkdein](https://www.linkedin.com/in/viniciusdossantossilva/)
+[Linkedin](https://www.linkedin.com/in/viniciusdossantossilva/)
+
 **viniciusdossantossilva10@gmail.com**
 
 ##  Some of my design works
