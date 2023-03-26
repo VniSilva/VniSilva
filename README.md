@@ -1,5 +1,8 @@
 # Vinicius dos Santos Silva
-<sub> Computer Engineer Studant </sub> 
+<sub> Computer Engineer Student </sub> 
+
+##  Some of my design works
+**[Design works]** (design_works/READEME.md)
 
 
 <!---
