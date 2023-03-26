@@ -5,10 +5,11 @@
 
 ## Contact
 **[Linkedin](https://www.linkedin.com/in/viniciusdossantossilva/)**
+
 **viniciusdossantossilva10@gmail.com**
 
 ##  Some of my design works
--> [Design works](design_works/READEME.md)
+-> [Design works](../design_works/READEME.md)
 
 <!---
 VniSilva/VniSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
