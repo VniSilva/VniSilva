@@ -4,7 +4,7 @@
 ## About me
 
 ## Contact
-[Linkedin](https://www.linkedin.com/in/viniciusdossantossilva/)
+**[Linkedin](https://www.linkedin.com/in/viniciusdossantossilva/)**
 
 **viniciusdossantossilva10@gmail.com**
 
