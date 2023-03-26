@@ -13,7 +13,4 @@
 </p>
 
 <h2> Contacts </h2>
-<p align-items="center">
-	<a href="https://www.linkedin.com/in/viniciusdossantossilva/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-	<a href="mailto:viniciusdossantossilva10@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-VniSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusdossantossilva/)](https://www.linkedin.com/in/viniciusdossantossilva/)
