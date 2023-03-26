@@ -5,7 +5,7 @@
 
 ## Contact
 [Linkdein](https://www.linkedin.com/in/viniciusdossantossilva/)
-** viniciusdossantossilva10@gmail.com **
+**viniciusdossantossilva10@gmail.com**
 
 ##  Some of my design works
 -> [Design works](design_works/READEME.md)
