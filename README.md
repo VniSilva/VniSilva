@@ -14,3 +14,5 @@
 
 <h2> Contacts </h2>
 [![Linkedin](https://img.shields.io/badge/-VniSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusdossantossilva/)](https://www.linkedin.com/in/viniciusdossantossilva/)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+
