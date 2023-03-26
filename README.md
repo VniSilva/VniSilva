@@ -13,7 +13,7 @@
 </p>
 
 <h2> Contacts </h2>
-<p>
+<p align-items="center">
 	<a href="https://www.linkedin.com/in/viniciusdossantossilva/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 	<a href="mailto:viniciusdossantossilva10@gmail.com"> Email </a>
 </p>
