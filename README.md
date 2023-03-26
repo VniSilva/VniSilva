@@ -1,4 +1,4 @@
-<h1> 'Hello World', I am Vinicius and Welcome to my Github </h1>
+:wave: <h1> 'Hello World', I am Vinicius and Welcome to my Github </h1>
 <sub> Computer Engineering Student | Internet Informatic Technician </sub>
 
 <h2> Languages & Tools </h2>
