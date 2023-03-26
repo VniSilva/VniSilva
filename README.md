@@ -1,5 +1,3 @@
-[email](viniciusdossantossilva10@gmail.com)
-
 <h1> 'Hello World', I am Vinicius and Welcome to my Github </h1>
 <sub> Computer Engineering Student | Internet Informatic Technician </sub>
 
@@ -17,4 +15,5 @@
 <h2> Contacts </h2>
 <p>
 	<a href="https://www.linkedin.com/in/viniciusdossantossilva/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+	Email: viniciusdossantossilva10@gmail.com
 </p>
