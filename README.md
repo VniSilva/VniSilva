@@ -8,6 +8,10 @@
 
 **viniciusdossantossilva10@gmail.com**
 
+## Programer languages & technical knowledges
+
+**HTML** | **CSS** | **Javascript** | **Python** | **PHP** | **Bootstrap** | **Inkscape** | **Photoshop**
+
 ##  Some of my design works
 -> [Design works](../design_works/READEME.md)
 
