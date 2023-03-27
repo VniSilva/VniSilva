@@ -1,6 +1,10 @@
 <h1> :wave: 'Hello World', I am Vinicius and Welcome to my Github </h1>
 <sub> Computer Engineering Student | Internet Informatic Technician </sub>
 
+🤯 Studying now: Python & Bootstrap
+
+🇧🇷 ☕ 💻
+
 <h2> Languages & Tools </h2>
 <p>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
