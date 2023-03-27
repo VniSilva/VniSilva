@@ -3,7 +3,7 @@
 
 ## 🤯 Studying now: Python & Bootstrap
 
-<p> U+1F1E7 U+1F1F7 ☕ 💻 </p>
+<p> 🇧🇷 ☕ 💻 </p>
 
 <h2> Languages & Tools </h2>
 <p>
