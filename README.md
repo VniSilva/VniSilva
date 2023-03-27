@@ -1,9 +1,9 @@
 <h1> :wave: 'Hello World', I am Vinicius and Welcome to my Github </h1>
 <sub> Computer Engineering Student | Internet Informatic Technician </sub>
 
-🤯 Studying now: Python & Bootstrap
+## 🤯 Studying now: Python & Bootstrap
 
-🇧🇷 ☕ 💻
+<p> U+1F1E7 U+1F1F7 ☕ 💻 </p>
 
 <h2> Languages & Tools </h2>
 <p>
